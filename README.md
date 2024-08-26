@@ -6,9 +6,13 @@ The leadership is interested in viewing the metrics from both an operations and 
 A meeting with the CEO and CMO has been scheduled for next month and I need to draft the relevant analytics and insights that would help evaluate the current business performance and suggest metrics that would enable them to make the decision on expansion.
 
 Questions For CEO:
+
 What are the total sales and profit margins for the last quarter?
+
 What is the average lifetime value of our customers?
+
 Are there any noticeable trends in customer purchasing behavior?
+
 Which product categories are performing the best and which are underperforming?
 
 Questions For CMO:
