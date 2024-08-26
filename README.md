@@ -16,7 +16,11 @@ Are there any noticeable trends in customer purchasing behavior?
 Which product categories are performing the best and which are underperforming?
 
 Questions For CMO:
+
 Which customer segments are the most profitable and how can we target them more effectively?
+
 What are the demographics and purchasing behaviors of our top customer segments?
+
 Which channels can provide the highest return on investment (ROI)?
+
 What are the most and least popular products among our customers?
